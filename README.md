@@ -1,7 +1,4 @@
-# My Coursera courses
+# Laboratorio de Investigacion y Desarrollo
+## Estudiando los Sistemas de Informacion
 
-- Cloud Computing - Concepts 1
-- Learn to Program: Crafting Quality Code
-- POSA: Pattern-oriented Software Architecture
-- Stanford Algorithms 1
-
+Seas quien fueres, siempre eres bienvenido a co-construir un sistema mejor.
